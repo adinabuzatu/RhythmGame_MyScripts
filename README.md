@@ -1,6 +1,6 @@
 # Symphony Sync
 
-Developed a mobile AR rhythm-game prototype in Unity for SPOT[**SPOT**](https://www.spotgroningen.nl/), Groningen, that transformed live classical concerts into interactive gameplay experiences for audiences aged 16–24.
+Developed a mobile AR rhythm-game prototype in Unity for [**SPOT**](https://www.spotgroningen.nl/), Groningen, that transformed live classical concerts into interactive gameplay experiences for audiences aged 16–24.
 
 ## Problem
 
