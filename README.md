@@ -1,16 +1,12 @@
 # Symphony Sync
 
-Developed a future-proof mobile AR prototype to modernize the classical music concert experience for [**SPOT**](https://www.spotgroningen.nl/) Groningen.
+Developed a mobile AR rhythm-game prototype in Unity for SPOT[**SPOT**](https://www.spotgroningen.nl/), Groningen, that transformed live classical concerts into interactive gameplay experiences for audiences aged 16–24.
 
 ## Problem
 
 - How can AR be applied to enhance the experience of live classical music?
 - How can interactivity engage and help make a younger target audience appreciate this music?
 - This project is about creating an extra experience to live classical music.
-
-**Target Audience:**
-
-16-24 years old.
 
 ## What ideal impact would the use of the prototype have:
 
