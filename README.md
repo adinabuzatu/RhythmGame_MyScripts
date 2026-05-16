@@ -8,11 +8,7 @@ Developed a mobile AR rhythm-game prototype in Unity for [**SPOT**](https://www.
 - How can interactivity engage and help make a younger target audience appreciate this music?
 - This project is about creating an extra experience to live classical music.
 
-## What ideal impact would the use of the prototype have:
-
-How can the passion, uniqueness and beauty of classical music, like the technical perfection or attention for detail, be conveyed to new and younger audiences?
-
-## My Solution:
+## My Solution
 
 - A mobile AR experience that transformed classical concerts into an interactive, game-like environment. 
 - By introducing real-time AR interaction, the experience reframed classical music as something participatory and immersive rather than passive. 
