@@ -63,6 +63,9 @@ In the pre-development phase, I conducted:
 - interviews,
 - desk research,
 - persona mapping.
+
+<img width="550" height="680" alt="Image" src="https://github.com/user-attachments/assets/561734cf-5e3e-4344-a18a-67db9e547a65" />
+
 The purpose of this research was to understand:
 - how younger audiences perceive classical music,
 - what types of games and interactions they enjoy,
@@ -72,9 +75,9 @@ Insights from these sessions directly informed the interaction design and gamepl
 **Post-development**
 
 Post-development research focused on interaction usability and spatial UX testing. 
-<br> I designed user testing sessions to validate whether AR note interactions (tapping, holding and swiping) felt natural within a physical concert environment. 
-<br> I asked participants to complete gameplay tasks independently while I measured their reaction time, how they navigate the scene, how frequently they made mistakes and how easy was to understand the mechanics. 
-<br> I tracked if the player was able to navigate the menus on their own, without any help and observed facial expressions to see if they find it easy to navigate.
+- I designed user testing sessions to validate whether AR note interactions (tapping, holding and swiping) felt natural within a physical concert environment.
+- I asked participants to complete gameplay tasks independently while I measured their reaction time, how they navigate the scene, how frequently they made mistakes and how easy was to understand the mechanics.
+- I tracked if the player was able to navigate the menus on their own, without any help and observed facial expressions to see if they find it easy to navigate.
 
 **Agile Workflow**
 
@@ -98,7 +101,8 @@ This experience significantly improved my understanding of:
 - leading technical collaboration within a small multidisciplinary team.
 
 Alongside gameplay development, I was also the **Scrum Master** for the team. 
-<br> I organized the production pipeline through backlog management, task prioritization and sprint planning. 
-<br> Tasks were categorized by discipline, including programming, UI, and art (2D and 3D), allowing the team to maintain a clear production structure. 
-<br> During sprint meetings, I reviewed progress individually with each team member, identified blockers, adjusted deadlines when necessary and ensured development stayed aligned with milestone goals. 
-<br> This role improved my leadership, communication and project management skills within an agile game development environment.
+- I organized the production pipeline through backlog management, task prioritization and sprint planning.
+- During sprint meetings, I reviewed progress individually with each team member, identified blockers, adjusted deadlines when necessary and ensured development stayed aligned with milestone goals.
+- This role improved my leadership, communication and project management skills within an agile game development environment.
+
+<img width="1103" height="686" alt="Image" src="https://github.com/user-attachments/assets/34490ece-ba24-41a2-bb99-a5b58cd7d3b9" />
