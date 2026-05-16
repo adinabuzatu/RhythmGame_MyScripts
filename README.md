@@ -90,6 +90,8 @@ Because of it, I introduced some GitHub collaboration practices for the team:
 - pull request reviews before merges,
 - communication about which Unity scenes or prefabs were being edited.
 
+<img width="1532" height="718" alt="Image" src="https://github.com/user-attachments/assets/17c2b505-a564-4de2-813f-63bd3d526e67" />
+
 To minimize Unity merge issues, I encouraged teammates to avoid editing the same scenes simultaneously and helped establish clearer ownership over project areas.
 
 This experience significantly improved my understanding of:
