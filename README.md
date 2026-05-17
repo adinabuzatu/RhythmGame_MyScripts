@@ -33,7 +33,6 @@ Developed a mobile AR rhythm-game prototype where users interact with synchroniz
 ## User Research & Testing
 
 The research combined qualitative user research and usability testing.
-
 <br> I conducted user and desk research to evaluate interaction clarity, engagement and accessibility.
 
 <img width="550" height="680" alt="Image" src="https://github.com/user-attachments/assets/561734cf-5e3e-4344-a18a-67db9e547a65" />
