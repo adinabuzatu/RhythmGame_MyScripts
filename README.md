@@ -2,18 +2,13 @@
 
 Developed a mobile AR rhythm-game prototype in Unity for [**SPOT**](https://www.spotgroningen.nl/), Groningen, that transformed live classical concerts into interactive gameplay experiences for audiences aged 16–24.
 
-## Problem
+## Project Challenge
 
-- How can AR be applied to enhance the experience of live classical music?
-- How can interactivity engage and help make a younger target audience appreciate this music?
-- This project is about creating an extra experience to live classical music.
+How can AR be applied to enhance the experience of live classical music for younger audiences?
 
 ## My Solution
 
-- A mobile AR experience that transformed classical concerts into an interactive, game-like environment. 
-- By introducing real-time AR interaction, the experience reframed classical music as something participatory and immersive rather than passive. 
-- Visitors can engage with AR notes and visual effects synchronized to the live orchestral music through gestures like tapping, holding and swiping. 
-- The prototype aims to bridge the gap between traditional concert culture and the interactive digital experiences younger audiences are already familiar with.
+Developed a mobile AR rhythm-game prototype where users interact with synchronized orchestral notes through tapping, holding and swiping gestures in real time. <br> The experience reimagined classical concerts as interactive gameplay rather than passive observation.
 
 ## Key Features
 - Real-time AR rhythm gameplay
@@ -27,7 +22,7 @@ Developed a mobile AR rhythm-game prototype in Unity for [**SPOT**](https://www.
 
 ## Programming
 
-**What I would refine:**
+**Technical Improvements**
 
 - I would move the hardcoded beat indexes into one clean data file.
 - I would store note type, time, position and score in one list of note events.
@@ -35,43 +30,33 @@ Developed a mobile AR rhythm-game prototype in Unity for [**SPOT**](https://www.
 - I would add validation for missing files, duplicate IDs and unsorted timestamps.
 - I would use object pooling for notes instead of creating and destroying objects every time.
 
-## Research
+## User Research & Testing
 
 The research combined qualitative user research and usability testing.
 
-**Pre-development**
-
-In the pre-development phase, I conducted: 
-- focus groups,
-- interviews,
-- desk research,
-- persona mapping.
+<br> I conducted user and desk research to evaluate interaction clarity, engagement and accessibility.
 
 <img width="550" height="680" alt="Image" src="https://github.com/user-attachments/assets/561734cf-5e3e-4344-a18a-67db9e547a65" />
 
-The purpose of this research was to understand:
-- how younger audiences perceive classical music,
-- what types of games and interactions they enjoy,
-- what would motivate them to attend concerts.
-
-**Post-development**
-
-- I designed user testing sessions to validate whether AR note interactions (tapping, holding and swiping) felt natural within a physical concert environment.
-- I asked 4 participants to complete gameplay tasks independently while I measured their reaction time, how they navigate the scene, how frequently they made mistakes and how easy was to understand the mechanics.
-- I tracked if the players were able to navigate the menus on their own, without any help and observed facial expressions to see if they find it easy to navigate.
+Tested gesture-based AR interactions with 4 participants by measuring:
+- task completion,
+- navigation by their own,
+- interaction errors,
+- mechanic comprehension.
 
 **Outcome**
 
-Participants immediately understood gesture-based tapping interactions from the AR prototype and described AR visuals as "futuristic" and informative; recommended stronger visual feedback and color to maintain engagement.
+Participants immediately understood gesture-based tapping interactions from the AR prototype and described AR visuals as "futuristic" and informative; recommended stronger visual feedback and color to maintain long-term engagement.
 
 ## Agile Workflow
 
-I coordinated a 5-person multidisciplinary team across gameplay, UI and AR feature development.
+**Technical Collaboration Challenges**
 
-**Challenges & Solutions**
-
-- Because merge conflicts, I introduced GitHub collaboration workflows including feature branching, pull request reviews and ownership-based scene management. 
-- To minimize Unity merge issues, I encouraged teammates to avoid editing the same scenes simultaneously and helped establish clearer ownership over project areas.
+To reduce Unity merge conflicts across a 5-person team, I introduced GitHub workflows including:
+- feature branches,
+- pull request reviews,
+- scene ownership coordination,
+- more frequent commits.
 
 <img width="1532" height="718" alt="Image" src="https://github.com/user-attachments/assets/17c2b505-a564-4de2-813f-63bd3d526e67" />
 
