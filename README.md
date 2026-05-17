@@ -62,6 +62,5 @@ To reduce Unity merge conflicts across a 5-person team, I introduced GitHub work
 **Scrum Master**
 - I organized the production pipeline through backlog management, task prioritization and sprint planning.
 - During sprint meetings, I reviewed progress individually with each team member, identified blockers, adjusted deadlines when necessary and ensured development stayed aligned with milestone goals.
-- This role improved my leadership, communication and project management skills within an agile game development environment.
 
 <img width="1103" height="686" alt="Image" src="https://github.com/user-attachments/assets/34490ece-ba24-41a2-bb99-a5b58cd7d3b9" />
