@@ -15,6 +15,14 @@ Developed a mobile AR rhythm-game prototype in Unity for [**SPOT**](https://www.
 - Visitors can engage with AR notes and visual effects synchronized to the live orchestral music through gestures like tapping, holding and swiping. 
 - The prototype aims to bridge the gap between traditional concert culture and the interactive digital experiences younger audiences are already familiar with.
 
+## Key Features
+- Real-time AR rhythm gameplay
+- Beatmap-driven note spawning
+- Tap, Hold and Swipe interactions
+- Accuracy and combo scoring systems
+- Live concert synchronization
+- Mobile Unity prototype
+
 # My Contribution
 
 ## Programming
@@ -49,20 +57,21 @@ The purpose of this research was to understand:
 **Post-development**
 
 - I designed user testing sessions to validate whether AR note interactions (tapping, holding and swiping) felt natural within a physical concert environment.
-- I asked participants to complete gameplay tasks independently while I measured their reaction time, how they navigate the scene, how frequently they made mistakes and how easy was to understand the mechanics.
-- I tracked if the player was able to navigate the menus on their own, without any help and observed facial expressions to see if they find it easy to navigate.
+- I asked 4 participants to complete gameplay tasks independently while I measured their reaction time, how they navigate the scene, how frequently they made mistakes and how easy was to understand the mechanics.
+- I tracked if the players were able to navigate the menus on their own, without any help and observed facial expressions to see if they find it easy to navigate.
+
+**Outcome**
+
+Participants immediately understood gesture-based tapping interactions from the AR prototype and described AR visuals as "futuristic" and informative; recommended stronger visual feedback and color to maintain engagement.
 
 ## Agile Workflow
 
-I coordinated a team of five developers and designers while managing feature integration through GitHub. 
-<br> Because multiple team members were simultaneously working on gameplay systems, UI and AR interactions in Unity, version control quickly became one of the project’s biggest **technical challenges**.
+I coordinated a 5-person multidisciplinary team across gameplay, UI and AR feature development.
 
-Because of it, I introduced some GitHub collaboration practices for the team:
-- feature branches for individual tasks,
-- more frequent commits,
-- pull request reviews before merges,
-- communication about which Unity scenes or prefabs were being edited.
-To minimize Unity merge issues, I encouraged teammates to avoid editing the same scenes simultaneously and helped establish clearer ownership over project areas.
+**Challenges & Solutions**
+
+- Because merge conflicts, I introduced GitHub collaboration workflows including feature branching, pull request reviews and ownership-based scene management. 
+- To minimize Unity merge issues, I encouraged teammates to avoid editing the same scenes simultaneously and helped establish clearer ownership over project areas.
 
 <img width="1532" height="718" alt="Image" src="https://github.com/user-attachments/assets/17c2b505-a564-4de2-813f-63bd3d526e67" />
 
